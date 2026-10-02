@@ -1,4 +1,4 @@
-# Part 2: Local Git - The Daily Grind (45 mins)
+# Part 2: Local Git - The Daily Grind
 
 **Focus:** Hands-on terminal work. Walking through the standard solo developer workflow.
 

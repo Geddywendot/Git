@@ -1,4 +1,4 @@
-# Part 3: GitHub & Collaboration (45 mins)
+# Part 3: GitHub & Collaboration
 
 **Focus:** Moving to the cloud and working with others.
 

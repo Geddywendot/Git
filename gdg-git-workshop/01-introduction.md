@@ -1,4 +1,4 @@
-# Part 1: The "Why" and the "What" (20 mins)
+# Part 1: The "Why" and the "What"
 
 **Focus:** Setting the stage and building a conceptual foundation before touching the terminal. Understanding *why* we are learning this is crucial for long-term retention.
 
