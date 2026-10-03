@@ -101,3 +101,4 @@ Open your terminal and try to complete these challenges without looking at the c
 
 ---
 **Congratulations on completing the GDG Git & GitHub Workshop!**
+**As a bonus work, after completing your assignment try cloning or forking this repository and create a pull request**
